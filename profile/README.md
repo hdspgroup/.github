@@ -30,4 +30,4 @@
 ####  :floppy_disk: Miscellaneous
 * [spec2rgb: Python Script to map spectral image to a RGB representation](https://github.com/hdspgroup/spec2rgb)
 * [HDSP Optoelectronics Automatization](https://github.com/hdspgroup/Optics_Lab_Automatization)
-* [Template Libro de Tesis de Grado en formato ICONTEC](https://github.com/hdspgroup/Template_Libro_Tesis_de_Grado_ICONTEC)
+* [Template Libro de Tesis de Grado (Pregrado) en formato ICONTEC](https://github.com/hdspgroup/Template_Libro_Tesis_de_Grado_ICONTEC)
