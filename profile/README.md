@@ -1,6 +1,6 @@
 ### High Dimensional Signal Processing Group (HDSP)
 
-#### :bookmark_tabs: Papers Catalog 
+#### :bookmark_tabs: Papers 
 
 * [Adaptive grayscale compressive spectral imaging using optimal blue noise coding patterns](https://github.com/hdspgroup/Adaptive-Grayscale-CSI-Blue-Noise-Patterns)
 * [Multiresolution Compressive Feature Fusion for Spectral Image Classification](https://github.com/hdspgroup/FeatureFusionHDSP_UIS)
@@ -24,7 +24,7 @@
 
 * [COmpressive Seismic Acquisition Design (COSAD)](https://github.com/hdspgroup/9836_seismic_project)
 
-#### :1234: Datasets Catalog
+#### :1234: Datasets
 * [Hyperspectral and Multispectral images acquired in the HDSP Optics Laboratory](https://github.com/hdspgroup/spectral-image-databases)
 
 ####  :floppy_disk: Miscellaneous
