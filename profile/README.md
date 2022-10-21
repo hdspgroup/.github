@@ -20,5 +20,5 @@
 * [Deep Low-Dimensional Spectral Image Representation For Compressive Spectral Reconstruction](https://github.com/hdspgroup/DeepLDSIR)
 * [JR2net: A Joint Representation and Recovery Network for Compressive Spectral Imaging](https://github.com/hdspgroup/JR2net)
 
-#### :1234: Database Catalog
+#### :1234: Datasets Catalog
 * [Hyperspectral and Multispectral images acquired in the HDSP Optics Laboratory](https://github.com/hdspgroup/spectral-image-databases)
