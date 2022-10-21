@@ -25,3 +25,4 @@
 
 ####  :floppy_disk: Miscellaneous
 * [spec2rgb: Python Script to map spectral image to a RGB representation](https://github.com/hdspgroup/spec2rgb)
+* [HDSP Optoelectronics Automatization](https://github.com/hdspgroup/Optics_Lab_Automatization)
