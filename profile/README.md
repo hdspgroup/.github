@@ -22,3 +22,6 @@
 
 #### :1234: Datasets Catalog
 * [Hyperspectral and Multispectral images acquired in the HDSP Optics Laboratory](https://github.com/hdspgroup/spectral-image-databases)
+
+####  :floppy_disk: Miscellaneous
+* [spec2rgb: Python Script to map spectral image to a RGB representation](https://github.com/hdspgroup/spec2rgb)
