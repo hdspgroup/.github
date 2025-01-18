@@ -20,6 +20,7 @@
 * [Deep Low-Dimensional Spectral Image Representation For Compressive Spectral Reconstruction](https://github.com/hdspgroup/DeepLDSIR)
 * [JR2net: A Joint Representation and Recovery Network for Compressive Spectral Imaging](https://github.com/hdspgroup/JR2net)
 * [Deep Adaptive Superpixels for Hadamard Single Pixel Imaging in Near-Infrared Spectrum](https://github.com/hdspgroup/AdaHSI)
+* [Generalized Recorrupted-to-Recorrupted: Self-Supervised Learning Beyond Gaussian Noise](https://github.com/hdspgroup/GeneralizedR2R)
 
 #### :pushpin: Projects
 
